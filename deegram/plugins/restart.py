@@ -5,7 +5,6 @@ from sys import executable
 
 from telethon import events
 
-from .. import bot, OWNER_ID
 
 logger = logging.getLogger(__name__)
 
